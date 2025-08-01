@@ -2,7 +2,7 @@ import React from 'react'
 
 import Header from '../component/Header/Header';
 import Footer from '../component/Footer/Footer';
-import Routers from '../routes/Routers';
+import Routers from "../Routes/Routers";
 
 const layout = () => {
   return <>
@@ -15,4 +15,4 @@ const layout = () => {
   
 };
 
-export default layout
+export default layout;
