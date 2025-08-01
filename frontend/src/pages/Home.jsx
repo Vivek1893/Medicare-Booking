@@ -18,7 +18,7 @@ import videoIcon from "../assets/images/video-icon.png";
 
 import { Link } from "react-router-dom";
 import { BsArrowRight } from "react-icons/bs";
-import About from "../component/About/about";
+import About from "../component/About/About";
 import ServiceList from "../component/Services/ServiceList";
 import DoctorList from "../component/Doctors/DoctorList";
 import FaqList from "../component/Faq/FaqList";
